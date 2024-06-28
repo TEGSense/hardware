@@ -4,6 +4,7 @@ This is a thermoelectric generator (TEG) boost converter used to power a connect
 
 This is the board version used in the published paper, revision 3 of the rigid prototypes.
 It is used in conjunction with the [SpO2 board](https://github.com/TEGSense/hardware-spo2).
+The board has a few bugs, so it's recommended to start with the [flex version](https://github.com/TEGSense/hardware-flex), even if you're not going to use a flex PCB.
 
 ![CAD rendering](tegsense-v3-cad.png)
 
